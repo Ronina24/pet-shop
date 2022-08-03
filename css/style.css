@@ -1,0 +1,73 @@
+#logo {
+  display: block;
+  min-height: 1px;
+  background-image: url("../image/fa8371812bac7c144689254f677ca962.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 370px;
+  height: 210px;
+  margin: auto;
+  margin-bottom: 3PX;
+}
+
+main {
+  margin: auto;
+  width: 60%;
+}
+
+.main_index {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.tb3 {
+  margin-top: 30px;
+}
+
+.box {
+  width: 48.5%;
+  flex-direction: column;
+  display: flex;
+}
+.titel, h4 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #79342d;
+}
+
+.form_submit {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.custom-select {
+  width: 60%;
+  margin-bottom: 5px;
+}
+button {
+  margin-bottom: 15px;
+}
+
+th {
+  color: #856404;
+}
+
+.bth-margin {
+  margin-left: 15px;
+}
+
+.input_num{
+  width: 50px;
+}
+
+#vehicle1{
+  padding: 15px;
+}
+
+.list-group{
+  margin-bottom: 10px;
+}
